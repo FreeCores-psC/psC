@@ -51,19 +51,19 @@
       {
         "Id": "Console",
         "SimulationMode": "Console",
-        "N": "20000000",
+        "N": "50000000",
         "Libraries": []
       },
       {
         "Id": "Wave",
         "SimulationMode": "Wave",
-        "N": "20000000",
+        "N": "2000",
         "Libraries": []
       },
       {
         "Id": "DE1SoC",
         "SimulationMode": "DE1SoC",
-        "N": "20000000",
+        "N": "50000000",
         "Libraries": []
       }
     ]
